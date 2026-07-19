@@ -29,7 +29,7 @@
 * **Shell:** `zsh`
 * **Prompt:** `powerlevel10k`
 * **Version manager:** `asdf`
-* **Terminal tools:** `eza`, `bat`, `htop`
+* **Terminal tools:** `eza`, `bat`, `htop`, `asdf`, `homebrew`, `cargo(eza, bat, ripgrep)`
 * **Text editor:** `lunarvim`
 * **Zsh plugins:** `zsh-autosuggestions`, `zsh-histdb`
 * **Font:** Nerd Font JetBrains Mono
