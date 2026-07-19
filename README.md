@@ -14,7 +14,7 @@
       <td align="center"><b>Desktop Principal</b></td>
     </tr>
     <tr>
-      <td><img src="/home/c3po/Documents/dotfile/screenshots/img1.png" alt="Desktop Preview" width="1000"/></td>
+      <td><img src="https://github.com/Tony27273/dotfile/blob/main/screenshots/img1.png" alt="Desktop Preview" width="1000"/></td>
     </tr>
   </table>
 </div>
